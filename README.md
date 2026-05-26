@@ -126,7 +126,7 @@ PSH, ACK
 Encerramento
 FIN, ACK
 
-👨‍💻 Integrantes
+Integrantes
 Marcos Gabriel Monteiro
 Guilherme Evangelista dos Anjos
 
